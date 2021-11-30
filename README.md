@@ -15,9 +15,9 @@
 ---------------------------------------
 
 ### Setup
-* Replace "BOT-TOKEN-HERE" on line 6 with you discord bot's token.
+* Replace "BOT-TOKEN-HERE" on line 6 with your discord bot's token.
 
 ---------------------------------------
 
 ### Contact
-View my contact information on my [website](https://ixdoge.com/)
+View my contact information on my [website](https://ixdoge.com/).
